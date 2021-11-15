@@ -16,3 +16,4 @@ Open [https://flexmoney-yoga-classes.netlify.app/](https://flexmoney-yoga-classe
 ![alt text](https://i.ibb.co/8zKbKPb/erd.png)
 
 4. I have used graphQL in our application which is hgihly used in industries.
+5. This application is highly scalable and completely open source.
